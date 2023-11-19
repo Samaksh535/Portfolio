@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/Portfolio/static/css/main.55399a0a.css",
-    "main.js": "/Portfolio/static/js/main.1f53ac8c.js",
+    "main.js": "/Portfolio/static/js/main.544b9bbe.js",
     "static/js/787.1ed0c42c.chunk.js": "/Portfolio/static/js/787.1ed0c42c.chunk.js",
     "static/media/solar-energy-website.jpg": "/Portfolio/static/media/solar-energy-website.9625d0332abc389a3091.jpg",
     "static/media/pi2.jpg": "/Portfolio/static/media/pi2.a876712b5ed0c416485c.jpg",
@@ -26,11 +26,11 @@
     "static/media/th 3.jpg": "/Portfolio/static/media/th 3.ee71cfb355c958ef61cf.jpg",
     "index.html": "/Portfolio/index.html",
     "main.55399a0a.css.map": "/Portfolio/static/css/main.55399a0a.css.map",
-    "main.1f53ac8c.js.map": "/Portfolio/static/js/main.1f53ac8c.js.map",
+    "main.544b9bbe.js.map": "/Portfolio/static/js/main.544b9bbe.js.map",
     "787.1ed0c42c.chunk.js.map": "/Portfolio/static/js/787.1ed0c42c.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.55399a0a.css",
-    "static/js/main.1f53ac8c.js"
+    "static/js/main.544b9bbe.js"
   ]
 }
